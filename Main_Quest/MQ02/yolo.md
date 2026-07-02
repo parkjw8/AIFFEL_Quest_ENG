@@ -1,5 +1,3 @@
-<img width="960" height="214" alt="image" src="https://github.com/user-attachments/assets/aa0153f4-0d44-4f72-a4af-569b0ea135fd" /><img width="960" height="214" alt="image" src="https://github.com/user-attachments/assets/8902121d-9524-4e4e-83cd-135bfcdbc11a" /># yolo1
-
 yolov8s, yolo12s 두 모델을 사용하기로했다 
 어떻게하면 잘 사용할 수 있을지 llm에게 물어봤다
 
